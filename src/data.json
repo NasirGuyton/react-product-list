@@ -1,0 +1,57 @@
+[
+    {
+      "id": 1,
+      "name": "Avengers DVD",
+      "category": "Movies",
+      "price": 19.99,
+      "rating": 4.5,
+      "units": 10,
+      "description": "Action-packed superhero movie."
+    },
+    {
+      "id": 2,
+      "name": "Baby Wipes",
+      "category": "Baby",
+      "price": 5.99,
+      "rating": 4.7,
+      "units": 30,
+      "description": "Gentle wipes for babies."
+    },
+    {
+      "id": 3,
+      "name": "Organic Apples",
+      "category": "Grocery",
+      "price": 3.49,
+      "rating": 4.2,
+      "units": 50,
+      "description": "Fresh and organic apples."
+    },
+    {
+      "id": 4,
+      "name": "Inception Blu-ray",
+      "category": "Movies",
+      "price": 14.99,
+      "rating": 4.8,
+      "units": 5,
+      "description": "Sci-fi thriller that bends reality."
+    },
+    {
+      "id": 5,
+      "name": "Baby Shampoo",
+      "category": "Baby",
+      "price": 6.99,
+      "rating": 4.6,
+      "units": 20,
+      "description": "Gentle formula for baby’s hair."
+    },
+    {
+      "id": 6,
+      "name": "Pasta",
+      "category": "Grocery",
+      "price": 2.49,
+      "rating": 4.1,
+      "units": 100,
+      "description": "Classic Italian pasta."
+    }
+  ]
+  
